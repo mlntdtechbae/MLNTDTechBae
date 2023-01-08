@@ -1,16 +1,15 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Tameka!
 ===============================================================================================================================
 
-A blockchain developer in the making!
--------------------------------------
+A web3 developer in the making!
+-------------------------------
 
-I am a crypto & web3 enthusiast and I decided to teach myself blockchain development in late September 2022!
+Fun fact about me: I have only been in the web3 space since late 2021 and then decided to teach myself web3 development in late September 2022!
 
-* 🌍  I'm based in Ontario, Canada
-* 🧠  I'm learning to become a blockchain developer
+* 🌍  I'm based in Canada
 
-<a href="https://www.github.com/mlntdtechbae" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/mlntdtechbae?logo=github&style=for-the-badge&color=14b8a6&labelColor=1c1917" /></a><br><a href="https://www.twitter.com/MLNTDTechBae" target="_blank" rel="noreferrer"><img
+<a href="https://www.github.com/MLNTDTechBae" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/MLNTDTechBae?logo=github&style=for-the-badge&color=14b8a6&labelColor=1c1917" /></a><br><a href="https://www.twitter.com/MLNTDTechBae" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/MLNTDTechBae?logo=twitter&style=for-the-badge&color=14b8a6&labelColor=1c1917"
 /></a>
 
@@ -30,14 +29,10 @@ src="https://img.shields.io/twitter/follow/MLNTDTechBae?logo=twitter&style=for-t
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/mlntdtechbae" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/MLNTDTechBae" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.github.com/MLNTDTechBae" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/MLNTDTechBae" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/mlntdtechbae"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mlntdtechbae&stroke=ffffff&background=1c1917&ring=14b8a6&fire=14b8a6&currStreakNum=ffffff&currStreakLabel=14b8a6&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-### Support Me
-
-<a href="https://www.buymeacoffee.com/mlntdtechbae"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+<a href="http://www.github.com/MLNTDTechBae"><img src="https://github-readme-streak-stats.herokuapp.com/?user=MLNTDTechBae&stroke=ffffff&background=1c1917&ring=14b8a6&fire=14b8a6&currStreakNum=ffffff&currStreakLabel=14b8a6&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
