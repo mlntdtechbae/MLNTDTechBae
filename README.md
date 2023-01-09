@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Tameka!
 ===============================================================================================================================
 
-A web3 developer in the making!
+A web3 developer & auditor in the making!
 -------------------------------
 
 Fun fact about me: I have only been in the web3 space since late 2021 and then decided to teach myself web3 development in late September 2022!
