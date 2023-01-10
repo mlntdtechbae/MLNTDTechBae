@@ -4,7 +4,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I'm an aspiring Web3 developer & Smart Contract auditor!
 -------------------------------
 
-Fun fact about me: I became interested in the world of Decentralized Finance and started learning about blockchain technology and development, in the Fall of 2022. I am excited about this new career path and am committed to continuing my education in order to eventually become a Smart Contract developer and auditor. My ultimate goal is to contribute good and valuable products to the DeFi space.
+Fun fact about me: 
+I became interested in the world of Decentralized Finance and started learning about blockchain technology and development, in the Fall of 2022. I am excited about this new career path and am committed to continuing my education in order to eventually become a Smart Contract developer and auditor. My ultimate goal is to contribute good and valuable products to the DeFi space.
 
 * 🌍  I'm based in Canada
 
