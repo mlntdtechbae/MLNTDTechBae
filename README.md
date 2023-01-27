@@ -5,7 +5,12 @@ I'm an aspiring Web3 developer & Smart Contract auditor!
 -------------------------------
 
 Fun fact about me: 
-I became interested in the world of Decentralized Finance and started learning about blockchain technology and development, in the Fall of 2022. I am excited about this new career path and am committed to continuing my education in order to eventually become a Smart Contract developer and auditor. My ultimate goal is to contribute good and valuable products to the DeFi space.
+
+As a recent career switcher with a passion for the DeFi space, I have been dedicated to learning web development since September 2022. Despite having no prior experience, I have quickly picked up the basics of HTML5, CSS3, and JavaScript. 
+
+I am currently focusing on mastering Solidity and my ultimate goal is to become a proficient smart contract developer and auditor, fuelled by my enthusiasm for the potential and advancements of web3 and blockchain technology. 
+
+As a junior developer, I understand the importance of continuous learning and growth in this field. I am always seeking new opportunities to improve my skills and bring fresh perspectives to the table.
 
 * 🌍  I'm based in Canada
 
