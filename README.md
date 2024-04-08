@@ -6,10 +6,7 @@ I'm an aspiring Web3 developer & Smart Contract auditor!
 
 Fun fact about me: 
 
-After spending over 22+ years in various customer service roles, I recently made the decision to switch careers and pursue my passion for Web3 and DeFi. I have been dedicated to learning web development since September 2022, and have quickly picked up the basics of HTML5, CSS3, and JavaScript. Furthermore, I have been heavily focusing on mastering Solidity, using web3 technologies such as Ethers.js, Hardhat and VS Code, via the Ethereum blockchain.
-
-Fuelled by my enthusiasm for the potential and advancements of web3 and blockchain technology, my ultimate goal is to become a well-versed and proficient smart contract developer and learning security best practices when conducting smart contract audits. As a junior developer, I understand the importance of continuous learning and growth in this field. I am always seeking new opportunities to improve my skills and bring fresh perspectives to the table. I am confident in my purpose and excited to bring my passion and dedication to a great organization within the Web3 and DeFi space.
-
+I started my blockchain development journey during the summer of 2022 and I am currently expanding my skills into various DeFi protocols. My main focus and growing expertise is in smart contract development, auditing and blockchain security strategies!
 * 🌍  I'm based in Canada
 
 <a href="https://www.github.com/MLNTDTechBae" target="_blank" rel="noreferrer"><img
